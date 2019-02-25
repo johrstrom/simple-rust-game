@@ -1,0 +1,8 @@
+[package]
+name = "simple_game"
+version = "0.1.0"
+authors = [ "Jeff Ohrstrom <johrstrom@hotmail.com>" ]
+edition = "2018"
+
+[dependencies]
+amethyst = {git = "https://github.com/amethyst/amethyst", rev="28f892ee03f4e1de30015bde32c0304927507a26"}
